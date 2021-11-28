@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LouayAkt
 - 👀 I’m interested in using Blender, Unity
-- 🌱 I’m currently learning Java, C# and Lua
+- 🌱 I’m currently learning Java, C# 
